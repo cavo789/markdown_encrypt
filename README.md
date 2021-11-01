@@ -2,7 +2,7 @@
 
 > Proof of concept - Encrypt markdown files and store encrypted version on github
 
-![Banner](./images/banner.png)
+![Banner](./banner.svg)
 
 * [Introduction](#introduction)
 * [Install OpenSSL](#install-openssl)
