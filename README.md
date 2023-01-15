@@ -1,5 +1,7 @@
 # Markdown Encrypt - Using SSL
 
+> Also see [Encrypt/decrypt files using Docker and OpenSSL](https://github.com/cavo789/docker_ssl_encrypt), a much simplier example based on this repository.
+
 > Proof of concept - Encrypt markdown files and store encrypted version on github
 
 ![Banner](./banner.svg)
